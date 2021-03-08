@@ -1,0 +1,77 @@
+\documentclass[12pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{pdfpages}
+\usepackage[spanish]{babel}
+\usepackage{ragged2e}
+\usepackage{graphicx}
+
+
+\title{\textbf{¿COMO CREAR UNA CUENTA EN OVERLEAF Y EN GITHUB?}}
+	
+	\author{julian betancourth hernandez \ \\  ITC -  julianandreid@gmail.com\\\ Report 1 }
+	\date{\today}
+
+
+
+
+\begin{document}
+
+\maketitle
+
+\section{introduccion}
+	acontinuacion se van a dar unos pasos a seguir para la creacion de una cunta overlife y una cuenta github
+\section{Objetivos}
+\begin{itemize}
+	  \item { Abrir una cuenta en  GitHub y Overleaf}
+	    \item {  Paso a paso de la creación de las cuentas } 
+	    \item{ Dar conclusiones de dicha creación de cuentas } 
+	   
+	    \section{crear cuenta github}
+\subsubsection{paso 1}
+	ir al navegador no importa  la preferencia buscar github.com despues de ello nos dirigira a la pagina principal de dicha pagina
+
+\break
+\includegraphics[scale=0.25]{2.png}
+
+\subsubsection{paso 2}
+	ya una vez dentro de la pagina nos dirigimos hacia la parte superior de la pagina lado derecho alli encontraremos el acceso a crear una cuenta esto  nos aparecera en ingles (sing up) le damos click izquierdo  y  se nos habrina otra pagina.
+	
+	\includegraphics[scale=0.25]{3.png}
+	    \subsubsection{paso 3}
+
+	despues nos tendremos que registrar puede ser con un correo  electronico al cual nos llegara una verificacion por parte de esta entidad  esto con fines de seguiradad. 
+
+	\includegraphics[scale=0.25]{4.png}
+
+
+\section{como crear cuenta overlife}
+\subsubsection{paso 1}
+nos vamos  al navegador no importa cual sea  y escribimos overlife.com le daremos enter y nos dirigira a la pagina principal de dicha pagina
+\includegraphics[scale=0.25]{5.png}
+\subsubsection{paso 2}
+
+	acontinuacion  nos  dirigimos a la pare superior derecha  de la  pagina alli le daremos click donde nos dice registrar ,nos aparecera dos opciones con las cuales podremos registrarnos le damos el la que creamos sea mas apropiada.
+	
+	\includegraphics[scale=0.25]{6.png}
+\subsubsection{paso 3}	
+ya para finalizar la pagina nos enviara a un punto donde nos dira si queremos crear un nuevo proyecto le cliqueamos hay ,y listo nos mandara a crear un proyecto
+
+\includegraphics[scale=0.25]{7.png}
+
+\includegraphics[scale=0.25]{8.png}
+
+\maketitle
+\section{conclusion}
+en conclusion puedo decir que este proceso fue sencillo ya que su modo de registro es muy sencillo y esto nos ayuda a para asi entender mas estas herramientas.
+
+\section{Bibliografía}
+	\begin{itemize}
+	\item Referencias
+	\item GitHub. (s.f.). Obtenido de https://github.com/
+	\item Overleaf. (s.f.). Obtenido de https://es.overleaf.com/
+	
+\end{itemize}
+\
+\end{itemize}
+\end{document}
+
